@@ -1,0 +1,14 @@
+{
+  "name": "api-encurtador-url",
+  "version": "1.0.0",
+  "description": "API para encurtar urls",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Marcus Souza Fernandes",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "express": "^4.13.4"
+  }
+}
